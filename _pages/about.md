@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "GWAS Enhancement with Multiple Knockoffs Inference: "Ghost Knockoffs""
+title: "GWAS Enhancement with Multiple Knockoffs Inference: Ghost Knockoffs"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -35,5 +35,5 @@ Cite Us
 Please cite us referencing this paper: https://nature.com
 
 For more info
-------
+=====
 Don't hesitate to reach out to our research group using the following emails: zihuai@stanford.edu, etc. 
