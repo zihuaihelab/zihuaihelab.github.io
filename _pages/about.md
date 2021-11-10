@@ -10,7 +10,7 @@ redirect_from:
 
 Recent advances in genome sequencing and imputation technologies provide an exciting opportunity to study the contribution of genetic variants to disease phenotypes, but our ability to explain heritability and to translate genetic risk into mechanistic insight remains limited at this point. In our recent paper that can be found [here](https://google.com), we propose a multiple knockoffs inference to enhance the discovery of genome-wide association studies (GWAS), by improving its statistical power for locus discovery and its resolution at each locus to prioritize the putative causal variants. 
 
-Our Software nicknamed **"GhostKnockoff"** is free to use and publicly available. The [GitHub](https://sosaar@github.com) has all pertinent code and dependencies and further information about its context, use, and communication with authors is on this page. 
+Our Software nicknamed **"GhostKnockoff"** is free to use and publicly available. The [GitHub](https://sosaar@github.com) has all pertinent code and dependencies. 
 
 About
 ======
@@ -18,17 +18,16 @@ We develop a method to perform knockoff-based inference without generating any i
 
 Getting started
 ======
-1. First clone the repository found here: 
-2. Do Something Else
+1. First, 
 
 Tips
 ------
-Be careful when doing X. The is designed for Y. 
 
-Cite Us
+
+Terms
 ======
-Please cite us referencing this paper: https://nature.com
+When using GhostKnockoff inference in your work, please cite our [flagship paper](https://nature.com)
 
-Feedback
+Communication
 =====
-Don't hesitate to reach out to our research group using the following emails: zihuai@stanford.edu, etc. 
+Don't hesitate to reach out to our research group using the following emails: zihuai@stanford.edu, sosaar@stanford.edu
