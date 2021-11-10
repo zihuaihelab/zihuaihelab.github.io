@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ghost Knockoffs software: an enhanced GWAS approach"
+title: "Ghost Knockoffs: an enhanced GWAS approach"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
