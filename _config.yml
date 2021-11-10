@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Multiple knockoffs inference assisted GWAS Software"
+title                    : "Multiple knockoffs inference"
 title_separator          : "-"
 name                     : &name "Lab of Dr. Zihuai He"
 description              : &description "this website's description"
