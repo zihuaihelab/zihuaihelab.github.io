@@ -21,10 +21,8 @@ The UK Biobank analysis demonstrates superior performance of the proposed method
 
 Getting started
 ======
-1. First, 
-
-Tips
-------
+#TIPS
+-----
 
 
 Terms
