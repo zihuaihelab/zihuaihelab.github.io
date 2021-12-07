@@ -20,13 +20,6 @@ We develop a method to perform knockoff-based inference without generating any i
 
 The UK Biobank analysis demonstrates superior performance of the proposed method compared to conventional GWAS in both statistical power (2.05-fold [95% CI, 1.5 to 2.6] more discoveries) and localization of putative causal variants at each locus (46% [95% CI, 34% to 58%] less proxy variants due to linkage disequilibrium). The AD meta-analysis identified 55 risk loci, with ~70% of the proximal genes at these loci showing suggestive signal in downstream single-cell transcriptomic analyses.
 
-
-Getting started
-======
-#TIPS
------
-
-
 Terms
 ======
 When using GhostKnockoff inference in your work, please cite our [flagship paper](https://nature.com)
