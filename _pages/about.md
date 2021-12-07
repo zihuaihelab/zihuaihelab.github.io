@@ -16,7 +16,7 @@ About
 ======
 We develop a method to perform knockoff-based inference without generating any individual-level knockoffs. The method requires only summary statistics (Z-score) from conventional GWAS and retains useful features of knockoff-based inference. The method additionally allows meta-analysis of studies with arbitrary sample overlapping. It is also robust to genetic variants that do not show up in all studies, and therefore applicable to the integration of genetic association studies genotyped using SNP-array, whole exome-sequencing and whole genome sequencing. 
 
-![Alt text](esgwas_workflow.png?raw=true "Title")
+![Workflow](https://github.com/zihuaihelab/zihuaihelab.github.io/master/_pages/esgwas_workflow.png)
 
 The UK Biobank analysis demonstrates superior performance of the proposed method compared to conventional GWAS in both statistical power (2.05-fold [95% CI, 1.5 to 2.6] more discoveries) and localization of putative causal variants at each locus (46% [95% CI, 34% to 58%] less proxy variants due to linkage disequilibrium). The AD meta-analysis identified 55 risk loci, with ~70% of the proximal genes at these loci showing suggestive signal in downstream single-cell transcriptomic analyses.
 
