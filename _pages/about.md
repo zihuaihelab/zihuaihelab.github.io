@@ -22,7 +22,7 @@ The UK Biobank analysis demonstrates superior performance of the proposed method
 
 Terms
 ======
-When using GhostKnockoff inference in your work, please cite our [flagship paper]([https://nature.com](https://www.biorxiv.org/content/10.1101/2021.12.06.471440v1.abstract))
+When using GhostKnockoff inference in your work, please cite our [flagship paper](https://www.biorxiv.org/content/10.1101/2021.12.06.471440v1.abstract))
 
 Authors
 ======
