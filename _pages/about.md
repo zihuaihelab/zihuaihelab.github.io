@@ -10,7 +10,7 @@ redirect_from:
 
 Recent advances in genome sequencing and imputation technologies provide an exciting opportunity to study the contribution of genetic variants to disease phenotypes, but our ability to explain heritability and to translate genetic risk into mechanistic insight remains limited at this point. In our recent [paper](https://www.biorxiv.org/content/10.1101/2021.12.06.471440v1.abstract), we propose a multiple knockoffs inference to enhance the discovery of genome-wide association studies (GWAS), by improving its statistical power for locus discovery and its resolution at each locus to prioritize the putative causal variants. 
 
-Our Software nicknamed **"GhostKnockoff"** is free to use and publicly available. The [GitHub](https://github.com/zihuaihelab/GhostKnockoff) has all pertinent code and dependencies. 
+Our Software nicknamed **"GhostKnockoff"** is free to use and publicly available. The [GitHub](https://github.com/zihuaihelab/GhostKnockoff) has our published results from using this software. 
 
 About
 ======
